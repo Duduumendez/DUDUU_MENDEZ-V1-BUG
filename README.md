@@ -50,7 +50,7 @@ DUDUU_MENDEZ 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="htt
 
 ## `Generate Pair Code For Session`
 
-[`Classic Pairing`](https://replit.com/@pesguru02/Classic-Pairing)
+[`Classic Pairing`](https://replit.com/@nicksoniaudax5/Classic-Pairing-2?s=app)
 
 
 

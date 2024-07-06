@@ -1,4 +1,4 @@
- V/*
+/*
 
 › Create By Haikal (HW MODS)
 › Base Ori Haikal (HW MODS)
@@ -326,7 +326,7 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ★彡★ 𝐃𝐔𝐃𝐔𝐔_𝐌𝐄𝐍𝐃𝐄𝐙 ★彡 𝙑3 彡★ `
+` ★彡★ 𝐃𝐔𝐃𝐔𝐔_𝐌𝐄𝐍𝐃𝐄𝐙 ★彡 𝙑1 彡★ `
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@ミ★ 𝐃𝐔𝐃𝐔𝐔_𝐌𝐄𝐍𝐃𝐄𝐙 ★彡.....'})//Pengalih isu
 
@@ -1809,8 +1809,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ⸙࿈𝐌ENDEZ⸙⧉',
-  body: '༐⫹⸙⧉DUDUU_MENDEZ⸙⫺', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
+  body: '༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1823,8 +1823,8 @@ break
 //=================================================//
 case 'beritamenu': {
 await loading()
-                            ewe = `┏━━▓ *DUDUU_MENDEZ-𝗩1 𝗕𝗢𝗧* ▓━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑀ENDEZ ❵
+                            ewe = `┏━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1870,15 +1870,15 @@ await loading()
 ┃➟ 𝒎𝒆𝒓𝒅𝒆𝒌𝒂
 ┃➟ 𝒋𝒂𝒍𝒂𝒏𝒕𝒊𝒌𝒖𝒔-𝒎𝒆𝒎𝒆
 ┃┗━━━━━━━━━━━━━━━━━━
-┃ ➥➥➥❰*DUDUU_MENDEZ-𝗩1 ®2024*❱➥➥➥
+┃ ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑D࿈𝐌ENDEZ⸙⧉',
-  body: '⫹⸙⧉DUDUU_MENDEZ-𝐕1⸙⫺', 
+  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
+  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1891,8 +1891,8 @@ break
 //=================================================//
 case 'asupan': {
 await loading()
-                            ewe = `┏━━━▓ *DUDUU_MENDEZ-𝗩1 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑀ENDEZ ❵
+                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1941,7 +1941,7 @@ await loading()
 ┃➟ asupan18
 ┃➟ asupan20
 ┃┗━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *DUDUU_MENDEZ-𝗩1 ®2024* ❱➥➥
+┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
@@ -2920,7 +2920,7 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "⫹⸙⧉MENDEZ-𝐕1 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺",
+"mimetype": "⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺",
 "title": "༐༑⿻𝐒᪣𝐀⚔𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
@@ -4042,7 +4042,7 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉DUDUU_MENDEZ-𝐕1 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
 "title": "༐༑⿻𝑺⸙𝑨᪣𝑴𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
@@ -4152,7 +4152,7 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉DUDUU_MENDEZ-𝐕1 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
 "title": "༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
@@ -5718,11 +5718,11 @@ let schedule = generateWAMessageFromContent(from, proto.Message.fromObject({
 zetsubo.relayMessage(Pe, schedule.message, { messageId: schedule.key.id })
 	}
 for (let i = 0; i < jumlah; i++) {
-attention(`⛅⃟導入𝅛ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入𝅛ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
-attention(`⛅⃟導入ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
-attention(`⛅⃟導入ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
 attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
@@ -5878,19 +5878,19 @@ attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤�
 await sleep(1000) 
 attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
-attention(`⛅⃟導入ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
-attention(`⛅⃟導入ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
-attention(`⛅⃟導入ᚘMENDEZ᪣𝐈𝐂-𝐕1ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
-attention(`⛅⃟導入ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ𝅛私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ𝅛私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
-attention(`⛅⃟導入ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
-attention(`⛅⃟導入ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
-attention(`⛅⃟導入ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
+attention(`⛅⃟導入ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ私⃟🌤️${restugay}${ios1}.${ios2}`)
 await sleep(1000) 
 }
 zetsreply(`*Sukses mengirim Bug Ke ${Pe} Tolong Jeda 3 Menit Yah*`)
@@ -5918,7 +5918,7 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐⫹⸙⧉DUDUU_MENDEZ-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺༔༐༑",
+"mimetype": "༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺༔༐༑",
 "title": "༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
@@ -5939,34 +5939,28 @@ if (!isCreator) return m.reply(`*Only Premium Members Are Allowed To Use This Co
 await loading()
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-zetsubo.sendMessage(from, { text: `༐༑⿻𝐌ENDEZ➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰𝐌ENDEZ - 𝟕𝐆͢𝛉𝐃 - 𝟎𝐩 ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻𝐌ENDEZ➟➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰𝐌ENDEZ - 𝟕𝐆͢𝛉𝐃 - 𝟎𝐩 ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-await sleep(900)
 zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰𝐒⸙𝐀࿈𝐌 - 𝟕𝐆͢𝛉𝐃 - 𝟎𝐩 ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+await sleep(900)
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌➟➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 zetsubo.sendMessage(from, { text: `⿻ 𒑰𝐒⸙𝐀࿈𝐌 - 𝟕𝐆͢𝛉𝐃 - 𝟎𝐩 ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
 zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 zetsubo.sendMessage(from, { text: `⿻ 𒑰𝐒⸙𝐀࿈𝐌 - 𝟕𝐆͢𝛉𝐃 - 𝟎𝐩 ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
 zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰𝐒⸙𝐀࿈𝐌 - 𝟕𝐆͢𝛉𝐃 - 𝟎𝐩 ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+await sleep(900)
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
 zetsubo.sendMessage(from, { text: `༐༑⿻⧠ 𝐒⸙𝐀࿈𝐌 ❖ 𝐕𝐈𝐒𝐈𝐎𝐍 ⧠⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕1ᚘ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
 zetsubo.sendMessage(from, { text: `༐༑⿻⧠ 𝐒⸙𝐀࿈𝐌 ❖ 𝐕𝐈𝐒𝐈𝐎𝐍 ⧠⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
 zetsubo.sendMessage(from, { text: `༐༑⿻⧠ 𝐒⸙𝐀࿈𝐌 ❖ 𝐕𝐈𝐒𝐈𝐎𝐍 ⧠⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
 zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
@@ -6020,32 +6014,38 @@ await sleep(900)
 zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻MENDEZ➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘDUDUU᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
 zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻MENDEZ➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘDUDUU᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻MENDEZ➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘDUDUU᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻MENDEZ➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘDUDUU᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻MENDEZ➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘDUDUU᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻MENDEZ➟➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘDUDUU᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻𝐌͢E𝐍DEZ⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
-zetsubo.sendMessage(from, { text: `༐༑⿻MENDEZ➟𝐕𝐢͢𝐒𝐢𝐎͢N⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
-zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘDUDUU_MENDEZ᪣𝐈𝐂-𝐕1ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+await sleep(900)
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+await sleep(900)
+zetsubo.sendMessage(from, { text: `༐༑⿻𝐒⸙𝐀࿈𝐌͢.𝐕➟𝐕𝐢͢𝐒𝐢𝐎͢𝐍⿻༔༐༑${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
+zetsubo.sendMessage(from, { text: `⿻ 𒑰ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ ${cttl}`, mentions: [`${jids1}`] }, {quoted:kalgans})
 await sleep(900)
 }}
 break
